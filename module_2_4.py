@@ -14,4 +14,4 @@ for i in numbers:
     else:
         not_primes.append(i)
 print ("Primes: ", primes)
-print ("Notprimes: ", not_primes)
+print ("Not Primes: ", not_primes)
